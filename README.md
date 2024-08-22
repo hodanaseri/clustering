@@ -30,8 +30,6 @@ This project explores clustering techniques on both synthetic and real-world dat
 
 # Breast Cancer Dataset Analysis
 
-### Steps
-
 1. **Data Interpretation:**
    - Explore the overall structure and characteristics of the Breast Cancer dataset.
    - Provide an interpretation of the dataset’s features and the distribution of values.
